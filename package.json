@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-graphql-fp",
+  "name": "api-conduit",
   "version": "0.1.0",
   "main": "index.js",
   "author": "Lucas Augusto",
